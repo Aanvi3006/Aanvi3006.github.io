@@ -31,7 +31,7 @@ button{
 	border-width: 0px;
 }
 
-.navigation{
+.mynavigation{
   position: sticky;
   top: 0;
   overflow: hidden;

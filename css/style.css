@@ -26,3 +26,14 @@ body{
 	background-color: #c7ddb5;
 }
 
+button{
+	background-color: #c7ddb5;
+	border-width: 0px;
+}
+
+.navigation{
+  position: sticky;
+  top: 0;
+  overflow: hidden;
+  background-color: #c7ddb5;	
+}
